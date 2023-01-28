@@ -1,0 +1,164 @@
+.navbar-left-all {
+    float:left;
+    margin-top:19px;
+    margin-left:26px;
+}
+
+.navbar-right-all {
+    float:right;
+    margin-top:12px;
+    margin-right:18px;
+}
+
+.nav-left {
+    font-size:14px;
+    margin-right:14px;
+}
+
+.nav-right {
+    font-size:13px;
+    margin-left:10px;
+}
+
+.nav-underbar {
+    font-family:arial,sans-serif;
+    text-decoration:none;
+    color:black;
+}
+
+.nav-underbar:hover {
+    text-decoration:underline;
+}
+
+.login-button {
+    font-size:14px;
+    color:white;
+    background-color:#1a73e8;
+    padding-top:9px;
+    padding-bottom:9px;
+    padding-left:27px;
+    padding-right:27px;
+    border:none;
+    border-radius:4px;
+    transition: all 0.3s ease;
+}
+
+.login-button:hover {
+    background:#1b66c9;
+    box-shadow:0 1px 3px 1px rgb(66 64 67 / 15%), 0 1px 2px 0 rgb(60 64 67 / 30%);
+}
+
+
+
+
+
+.main {
+    margin-top:258px;
+    text-align:center;
+}
+
+body {
+    display:contents;
+}
+
+.input-area {
+    margin-top:20px;
+}
+
+.input-box {
+    width:404px;
+    height:40px;
+    border:1px solid #dfe1e5;
+    border-radius:24px;
+    padding-top:2px;
+    padding-left:50px;
+    padding-right:130px;
+}
+
+.input-box:hover {
+    box-shadow:0 1px 3px 1px rgb(66 64 67 / 15%), 0 1px 2px 0 rgb(60 64 67 / 30%);
+}
+
+.search-icon {
+    position:relative;
+    left:40px;
+    color: #9aa0a6;
+    margin-left:88px;
+}
+
+.keyboardMicImage-icon {
+    position:relative;
+    right:125px;
+    color: #202124;
+}
+
+.icon-padding {
+    padding:0px 8px;
+}
+
+.button-area {
+    padding-top: 18px;
+}
+
+.button-style {
+    background-color:#f8f9fa;
+    border:1px solid #f8f9fa;
+    border-radius:4px;
+    color:#3c4043;
+    font-family:arial,sans-serif;
+    font-size:14px;
+    margin:11px 4px;
+    padding:0 16px;
+    line-height:27px;
+    height:36px;
+    min-width:54px;
+    text-align:center;
+    cursor:pointer;
+    user-select:none;
+}
+
+.button-style:hover {
+    box-shadow:0 1px 1px rgb(0 0 0 / 10%);
+    background-color:#f8f9fa;
+    border:1px solid #dadce0;
+    color:#202124;
+}
+
+
+
+
+
+.floor {
+    font-family:arial,sans-serif;
+    position:absolute;
+    bottom:0px;
+    background:#f2f2f2;
+    width:100%;
+}
+
+.first-floor {
+    padding:15px 30px;
+    border-bottom:1px solid #dadce0;
+    font-size:15px;
+    color:#70757a;
+}
+
+.second-floor {
+    padding:15px 20px;
+    font-size:14px;
+    color:#70757a;
+}
+
+.second-floor-right {
+    float:right;
+}
+
+.floor-underbar {
+    text-decoration:none;
+    color:#70757a;
+    padding:15px;
+}
+
+.floor-underbar:hover {
+    text-decoration:underline;
+}
